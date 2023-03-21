@@ -1,4 +1,3 @@
-# NJU-DisSys-2017
-This is the resource repository for the course Distributed System, Fall 2017, CS@NJU.
+# MIT 6.824 Lab
 
-In Assignment 2 and Assignment 3, you should primarily focus on /src/raft/...
+Implementation of MIT 6.824 Lab Assignment 2 and Assignment 3. Implemented Raft leader election, log replication, persistence.
