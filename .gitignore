@@ -1,0 +1,6 @@
+.vscode/
+pkg/
+bin/
+api.key
+.api.key.trimmed
+*-handin.tar.gz
